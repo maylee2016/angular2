@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: #f1f1f1;
+    color: #3c3c3b;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 1.2;    
+}
+
+a {
+    color: #074d72;
+    cursor: pointer;
+    text-decoration: none;
+    size: 0px
+}
+
+form{
+    font-size: 20%;
+}
+
+div{
+    line-height: 0.5cm;
+}
